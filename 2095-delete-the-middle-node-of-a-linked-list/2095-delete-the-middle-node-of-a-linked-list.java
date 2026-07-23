@@ -12,9 +12,9 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-       post=slow.next;
-    
-       prev.next=post;
+       //post=slow.next;
+               // post
+       prev.next=slow.next;
        return head;
     }
    
