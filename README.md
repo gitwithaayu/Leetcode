@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitwithaayu/Leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/gitwithaayu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/gitwithaayu/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitwithaayu/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gitwithaayu/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
