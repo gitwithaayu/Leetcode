@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gitwithaayu/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitwithaayu/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/gitwithaayu/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gitwithaayu/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gitwithaayu/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gitwithaayu/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/gitwithaayu/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gitwithaayu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitwithaayu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gitwithaayu/Leetcode/tree/master/0148-sort-list) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gitwithaayu/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/gitwithaayu/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
