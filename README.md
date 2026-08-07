@@ -110,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitwithaayu/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gitwithaayu/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gitwithaayu/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gitwithaayu/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
