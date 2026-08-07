@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitwithaayu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gitwithaayu/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gitwithaayu/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gitwithaayu/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitwithaayu/Leetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gitwithaayu/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gitwithaayu/Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
