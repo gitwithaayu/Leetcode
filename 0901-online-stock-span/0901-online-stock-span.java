@@ -13,7 +13,11 @@ class StockSpanner {
         }
         int span=0;
         int pge=-1;
-        if(!stack.isEmpty()){
+        
+        if(stack.isEmpty()){
+            pge=-1;
+        }
+        else{
             pge=stack.peek()[1];
         }
         span=index-pge;
