@@ -12,7 +12,7 @@ class Solution {
         }
 
         // If no pivot, array is the largest permutation
-          if (pivot == -1) {
+        if (pivot == -1) {
             for (int i = 0, j = nums.length - 1; i < j; i++, j--) {
                 int temp = nums[i];
                 nums[i] = nums[j];
@@ -20,9 +20,8 @@ class Solution {
             }
             return;
         }
-      
 
-        // 2. Find greater element
+        // 2. Find the smallest element greater than pivot
         int greater = -1;
 
         for (int i = nums.length - 1; i > pivot; i--) {
@@ -37,8 +36,8 @@ class Solution {
         nums[pivot] = nums[greater];
         nums[greater] = temp;
 
-        // 4. Sort suffix in ascending order
-        for (int i = pivot + 1; i < nums.length; i++) {
+        // 4. Arrange suffix in ascending order
+         for (int i = pivot + 1; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
 
                 if (nums[i] > nums[j]) {
@@ -48,5 +47,7 @@ class Solution {
                 }
             }
         }
+            
+        
     }
 }
