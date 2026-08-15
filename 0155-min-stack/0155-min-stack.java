@@ -1,14 +1,11 @@
 class MinStack {
-     Stack<Integer> stack;
+    Stack<Integer> stack;
     Stack<Integer> minstack;
-
-
+    
     public MinStack() {
-        
     stack = new Stack<>();
     minstack = new Stack<>();
 
-        
     }
     
     public void push(int value) {
@@ -34,6 +31,7 @@ class MinStack {
         return minstack.peek();
     }
 }
+
 
 /**
  * Your MinStack object will be instantiated and called as such:
