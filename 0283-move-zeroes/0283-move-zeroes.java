@@ -7,12 +7,13 @@ class Solution {
 
             if (nums[ptr2] != 0) {
 
-                int temp = nums[ptr2];
-                nums[ptr2] = nums[ptr1];
-                nums[ptr1] = temp;
+                int temp = nums[ptr1];
+                nums[ptr1] = nums[ptr2];
+                nums[ptr2] = temp;
 
                 ptr1++;
             }
         }
     }
 }
+
