@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gitwithaayu/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gitwithaayu/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/gitwithaayu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gitwithaayu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gitwithaayu/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gitwithaayu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gitwithaayu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitwithaayu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/gitwithaayu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/gitwithaayu/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gitwithaayu/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gitwithaayu/Leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/gitwithaayu/Leetcode/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
