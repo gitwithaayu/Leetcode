@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitwithaayu/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/gitwithaayu/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitwithaayu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gitwithaayu/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/gitwithaayu/Leetcode/tree/master/0035-search-insert-position) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gitwithaayu/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gitwithaayu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gitwithaayu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitwithaayu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gitwithaayu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gitwithaayu/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
