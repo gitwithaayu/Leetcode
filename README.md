@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gitwithaayu/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gitwithaayu/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/gitwithaayu/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gitwithaayu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gitwithaayu/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gitwithaayu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gitwithaayu/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitwithaayu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/gitwithaayu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gitwithaayu/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/gitwithaayu/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gitwithaayu/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitwithaayu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitwithaayu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/gitwithaayu/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
